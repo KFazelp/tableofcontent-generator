@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: whitesmoke;
+    padding: 10px 20px;
+}
+
+h1 {
+    padding-top: 40px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333333;
+    padding-left: 10px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #444444;
+    padding-left: 20px;
+}
+
+.text {
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: #dfdfdf;
+}
